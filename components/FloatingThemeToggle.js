@@ -58,7 +58,7 @@ export default function FloatingThemeToggle() {
       className={`
         fixed bottom-20 right-4 z-50
         flex items-center justify-center w-12 h-12 rounded-full
-        bg-primary shadow-lg
+        bg-indigo-600 shadow-lg
         text-white
         transition-all duration-200 hover:scale-110 active:scale-95
         md:hidden
